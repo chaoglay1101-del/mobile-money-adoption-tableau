@@ -4,6 +4,8 @@
 
 [繁體中文版](README.zh-TW.md)
 
+[LinkedIn](https://www.linkedin.com/in/yu-chen-chao/)
+
 This project analyses how mobile money is changing access to payments, banking, savings and liquidity across emerging markets, with a focus on Sub-Saharan Africa. It combines World Bank Global Findex indicators with GSMA mobile-money market context and presents the analysis as an interactive Tableau Story.
 
 ## View the interactive Tableau Story
