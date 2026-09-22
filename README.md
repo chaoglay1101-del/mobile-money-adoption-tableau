@@ -4,6 +4,10 @@
 
 This project analyses how mobile money is changing access to payments, banking, savings and liquidity across emerging markets, with a focus on Sub-Saharan Africa. It combines World Bank Global Findex indicators with GSMA mobile-money market context and presents the analysis as an interactive Tableau Story.
 
+## View the interactive Tableau Story
+
+[Open the project on Tableau Public](https://public.tableau.com/views/BANALAssignment2/STORY?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Business question
 
 How is mobile money adoption changing the financial landscape in Sub-Saharan Africa, and where are the strongest opportunities for banks, investors and fintech strategists?
@@ -42,7 +46,7 @@ These findings are descriptive and exploratory; they are not causal estimates.
 - **GSMA State of the Industry Report 2025:** market context and mobile-money ecosystem figures.
 - **Tools:** Tableau, Python, pandas and Excel.
 
-The original source files and Tableau workbooks are not included in this public repository. They contain large third-party datasets, course materials and/or embedded data extracts. The screenshots in [`screenshots/`](screenshots/) show the final analytical views. Source data should be obtained directly from the relevant providers and checked against their current licence terms.
+The original source files and Tableau workbooks are not included in this public repository. They contain large third-party datasets, course materials and/or embedded data extracts. The screenshots in [`screenshots/`](screenshots/) show the final analytical views, while the interactive story is available through Tableau Public. Source data should be obtained directly from the relevant providers and checked against their current licence terms.
 
 ## Dashboard previews
 
