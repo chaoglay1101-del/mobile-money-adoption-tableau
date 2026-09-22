@@ -2,6 +2,8 @@
 
 **Business Analytics and Tableau portfolio project**
 
+[繁體中文版](README.zh-TW.md)
+
 This project analyses how mobile money is changing access to payments, banking, savings and liquidity across emerging markets, with a focus on Sub-Saharan Africa. It combines World Bank Global Findex indicators with GSMA mobile-money market context and presents the analysis as an interactive Tableau Story.
 
 ## View the interactive Tableau Story
